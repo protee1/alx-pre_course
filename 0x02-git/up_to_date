@@ -1,0 +1,7 @@
+git init
+git checkout -b  master
+git status
+git add .
+git remote add origin <Remote github link>
+git push -u origin master
+git pull origin master
